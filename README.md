@@ -1,1 +1,1 @@
-# Algorytmy - 1 Quick short
+# Algorytmy - 1 Quick sort

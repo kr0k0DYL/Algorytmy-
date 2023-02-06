@@ -1,1 +1,1 @@
-# Algorytmy- 1 First quick short
+# Algorytmy - 1 Quick short
